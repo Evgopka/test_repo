@@ -6,3 +6,5 @@ public class Main {
         return x * 20 + y * 50 + z * 100;
     }
 }
+/*
+fdesd.bhjsdfv*/
